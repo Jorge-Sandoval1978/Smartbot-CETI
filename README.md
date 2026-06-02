@@ -20,3 +20,6 @@ Smartbot CETI es un asistente automatizado diseñado para brindar información a
 ## Creadores
 - Jorge Armando Sandoval Valencia  
 - Carlos Sánchez Paita
+
+## Enlace a los archivos del proyecto
+https://drive.google.com/drive/folders/1Zsduh0VvBiMjSpQ6B-mhK8nhwhQO1l7Q?usp=sharing
